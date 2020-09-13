@@ -3,7 +3,7 @@
 
   ## Description ✏️
   
-  Budget Tracker that works online and offline
+  Budget Tracker that works online and offline - NEED TO ELABORATE FURTHER
   
   ## Table of Contents 📚
   
@@ -23,7 +23,7 @@
   ## Usage 
 
   ```
-  ▶️ NEED TO ADD INFO HERE
+  ▶️ NEED TO ADD INFO HERE ONCE COMPLETED
   ```
 
   ## License 
