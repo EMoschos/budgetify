@@ -21,7 +21,7 @@
   ```
 [Click Here](https://budgetify-offline.herokuapp.com/) to access Budgetify
 
-![Budgetify Downlaod](./images/budgetifydownload.png)
+![Budgetify Download](./images/budgetifydownload.png)
 
   ## Usage 
 
