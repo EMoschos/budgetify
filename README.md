@@ -30,7 +30,7 @@
   Budgetify has been created so the user can work offline in areas of poor internet connectivity with no loss of functionality.  Budgetify will automatically sync with cloud database once a connection has been restored and there is no need for the user to do anything.
   The user also has the choice of downloading Budgetify to take advantage of its PWA technologies.  
   ```
-![Budgetify Downlaod](./images/budgetify.png)
+![Budgetify](./images/budgetify.PNG)
 
   ## License 
   
